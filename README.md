@@ -46,7 +46,7 @@ Sou desenvolvedor formado em **Análise e Desenvolvimento de Sistemas** com foco
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/luis-gustavo-freitas-de-oliveira)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/luis-gustavo-freitas-de-oliveira-1732111a1/))
 - 📧 Email: **luis.freitaso2001@gmail.com**
 
 ---
